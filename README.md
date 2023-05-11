@@ -1,5 +1,6 @@
 # Catch-The-Birdie
 
+You have only 10 seconds to catch the birdies!
 The goal is catch the birdies as fast as you can !
 
 # Gameplay
